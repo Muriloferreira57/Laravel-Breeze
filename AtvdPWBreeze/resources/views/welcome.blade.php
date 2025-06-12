@@ -17,7 +17,7 @@
     }
 
     header {
-      background-color: #004080;
+      background-color:rgb(177, 4, 4);
       color: white;
       padding: 30px 20px;
       text-align: center;
@@ -25,7 +25,7 @@
 
     /* NAVBAR NOVA */
     nav {
-      background-color: #003366;
+      background-color:rgb(112, 112, 112);
       padding: 10px 20px;
     }
 
@@ -86,7 +86,7 @@
     }
 
     section h2 {
-      color: #004080;
+      color:rgb(0, 0, 0);
       margin-bottom: 20px;
     }
 
@@ -180,11 +180,6 @@
       </div>
     </div>
   </nav>
-
-  <!-- CONTAINER COM A LOGO GRANDE ABAIXO DA NAVBAR -->
-  <div class="logo-container">
-    <img src="logo.png" alt="Logo da Etec" class="logo-banner">
-  </div>
 
   <!-- CONTEÚDO PRINCIPAL -->
   <section id="sobre">
